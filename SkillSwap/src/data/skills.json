@@ -1,0 +1,98 @@
+[
+  {
+    "skillId": "guitar-for-beginners",
+    "skillName": "Guitar for Beginners",
+    "providerName": "Jordan Lee",
+    "providerEmail": "jordan.lee@example.com",
+    "price": 28,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "Learn your first chords, build a steady strumming rhythm, and play a favorite song in a relaxed, beginner-friendly lesson.",
+    "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=1000&q=85",
+    "category": "Music"
+  },
+  {
+    "skillId": "conversational-spanish",
+    "skillName": "Conversational Spanish",
+    "providerName": "Lucía Morales",
+    "providerEmail": "lucia.morales@example.com",
+    "price": 24,
+    "rating": 5.0,
+    "slotsAvailable": 3,
+    "description": "Practice useful everyday Spanish through friendly conversation, pronunciation tips, and practical phrases for travel and daily life.",
+    "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1000&q=85",
+    "category": "Language"
+  },
+  {
+    "skillId": "web-development-basics",
+    "skillName": "Build Your First Website",
+    "providerName": "Avery Patel",
+    "providerEmail": "avery.patel@example.com",
+    "price": 42,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Get started with HTML, CSS, and JavaScript by building a simple personal website with guidance at every step.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1000&q=85",
+    "category": "Programming"
+  },
+  {
+    "skillId": "strength-training-basics",
+    "skillName": "Strength Training Basics",
+    "providerName": "Morgan Brooks",
+    "providerEmail": "morgan.brooks@example.com",
+    "price": 32,
+    "rating": 4.8,
+    "slotsAvailable": 6,
+    "description": "Learn safe form, practical bodyweight exercises, and how to build a simple strength routine that fits your goals.",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1000&q=85",
+    "category": "Fitness"
+  },
+  {
+    "skillId": "canva-brand-design",
+    "skillName": "Canva & Brand Design",
+    "providerName": "Nina Park",
+    "providerEmail": "nina.park@example.com",
+    "price": 35,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Create polished social graphics and a consistent visual identity while learning practical layout, color, and typography basics.",
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&w=1000&q=85",
+    "category": "Design"
+  },
+  {
+    "skillId": "portrait-photography",
+    "skillName": "Natural Light Portraits",
+    "providerName": "Sofia Martinez",
+    "providerEmail": "sofia.martinez@example.com",
+    "price": 38,
+    "rating": 4.8,
+    "slotsAvailable": 4,
+    "description": "Make more expressive portraits using natural light, thoughtful composition, and the camera you already own.",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?auto=format&fit=crop&w=1000&q=85",
+    "category": "Photography"
+  },
+  {
+    "skillId": "sourdough-baking",
+    "skillName": "Sourdough at Home",
+    "providerName": "Oliver James",
+    "providerEmail": "oliver.james@example.com",
+    "price": 35,
+    "rating": 5.0,
+    "slotsAvailable": 3,
+    "description": "Understand your starter, shape a satisfying loaf, and take home a clear plan for baking delicious sourdough in your own kitchen.",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1000&q=85",
+    "category": "Cooking"
+  },
+  {
+    "skillId": "small-business-marketing",
+    "skillName": "Marketing for Small Businesses",
+    "providerName": "Ethan Williams",
+    "providerEmail": "ethan.williams@example.com",
+    "price": 45,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "Plan approachable social posts, identify your ideal customers, and build a simple marketing routine for a local business.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1000&q=85",
+    "category": "Marketing"
+  }
+]
